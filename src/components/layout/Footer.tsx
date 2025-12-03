@@ -73,11 +73,11 @@ export function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <Mail className="w-5 h-5 text-gold mt-0.5 flex-shrink-0" />
-                <span className="text-cream/70 text-sm">info@capivesttrade.com</span>
+                <span className="text-cream/70 text-sm">info@capivest.in</span>
               </li>
               <li className="flex items-start gap-3">
                 <Phone className="w-5 h-5 text-gold mt-0.5 flex-shrink-0" />
-                <span className="text-cream/70 text-sm">+1 (555) 123-4567</span>
+                <span className="text-cream/70 text-sm">+91 1234567890</span>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-gold mt-0.5 flex-shrink-0" />

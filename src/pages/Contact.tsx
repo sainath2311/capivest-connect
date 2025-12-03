@@ -12,13 +12,13 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    details: "info@capivesttrade.com",
+    details: "info@capivest.in",
     description: "Send us an email anytime",
   },
   {
     icon: Phone,
     title: "Phone",
-    details: "+1 (555) 123-4567",
+    details: "+91 1234567890",
     description: "Mon-Fri, 9am to 6pm",
   },
   {

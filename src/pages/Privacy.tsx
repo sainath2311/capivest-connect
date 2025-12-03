@@ -86,8 +86,8 @@ const Privacy = () => {
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">7. Contact Us</h2>
                 <p className="text-muted-foreground leading-relaxed">
                   If you have any questions about this Privacy Policy, please contact us at:<br />
-                  Email: info@capivesttrade.com<br />
-                  Phone: +1 (555) 123-4567
+                  Email: info@capivest.in<br />
+                  Phone: +91 1234567890
                 </p>
               </div>
             </motion.div>
